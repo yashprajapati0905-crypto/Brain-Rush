@@ -8,7 +8,7 @@ import {
     View,
 } from 'react-native';
 
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://brain-rush-backend.onrender.com';
 
 const questions = [
   {

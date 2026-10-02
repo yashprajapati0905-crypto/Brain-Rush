@@ -8,7 +8,7 @@ import {
     View,
 } from 'react-native';
 
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://brain-rush-backend.onrender.com';
 // Expo Go phone par test kar rahe ho to:
 // const API_URL = 'http://10.194.67.91:5000';
 
